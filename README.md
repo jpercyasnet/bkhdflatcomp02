@@ -1,5 +1,5 @@
 # bkhdflatcomp02
-Rust program: Read the md5sum of a file in csv of HD database and see if it is in csv of a Database. 
+Rust program: Read the md5sum of a file in csv of HD list and see if it is in csv of a Database. 
 
 example:
 
@@ -9,7 +9,7 @@ where nnnn is an optional input to read the hdinit.csv starting at nnnn row
 
 adbsorted.csv is a sorted dump of a database
 
-hdinit.csv is a sorted dump of the hd database or sorted output from hdbkmd5dblist
+hdinit.csv is a hd list output from sorted output from hdbkmd5dblist
 
 exclude.excfile is a text file which excludes files and directories.
 
